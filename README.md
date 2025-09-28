@@ -5,10 +5,7 @@ This project implements a real-time driver drowsiness detection system using com
 
 Features:
 
-Real-time detection of drowsy driving using computer vision.
-
-Facial feature analysis including eye closure and blink rate.
-
-Integration with webcam/in-car camera feeds.
-
-Alert system with audio and vibration feedback to warn drivers.
+- Real-time detection of drowsy driving using computer vision.
+- Facial feature analysis including eye closure and blink rate.
+- Integration with webcam/in-car camera feeds.
+- Alert system with audio and vibration feedback to warn drivers.
